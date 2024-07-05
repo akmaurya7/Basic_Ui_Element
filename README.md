@@ -1,5 +1,5 @@
 # Button Screen
-![Button Screen](https://github.com/akmaurya7/Basic_Ui_Element/blob/master/ScreenShot/Button%20SS.jpg)
+<img src="https://github.com/akmaurya7/Basic_Ui_Element/blob/master/ScreenShot/Button%20SS.jpg" alt="Alt text" width="500" height="300">
 
 
 # Card Screen
