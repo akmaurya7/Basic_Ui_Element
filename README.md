@@ -15,7 +15,7 @@
 
 # Slider Screen
 
-<img src="https://github.com/akmaurya7/Basic_Ui_Element/blob/master/ScreenShot/Chip%20ss.jpg" alt="Alt text" width="300" height="550">
+<img src="https://github.com/akmaurya7/Basic_Ui_Element/blob/master/ScreenShot/Slider%20ss.jpg" alt="Alt text" width="300" height="550">
 
 
 # Switch Screen
